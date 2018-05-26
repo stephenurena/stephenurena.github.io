@@ -1,3 +1,8 @@
+PATH
+  remote: .
+  specs:
+    forty_jekyll_theme (1.2)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -243,10 +248,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler (~> 1.12)
+  forty_jekyll_theme!
   github-pages
-  jekyll-feed (~> 0.6)
-  minima (~> 2.0)
-  tzinfo-data
+  jekyll (~> 3.3)
 
 BUNDLED WITH
    1.16.2
