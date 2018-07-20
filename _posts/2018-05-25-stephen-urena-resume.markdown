@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Markdown Resume"
-date:   2018-05-25 16:30:33 -0700
+description: Individual Project
+
 ---
 
 I created a markdown resume on Github Gist, as part of my application for the Microsoft Leap Apprenticeship program. 

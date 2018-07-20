@@ -57,3 +57,6 @@ $ mongod
 $ mongo 
 $ in .env change file to use MONGOLAB_URI=mongodb://localhost/"database" 
 ```
+Check out the code [AmericanLife][github-americanLife]{:target="_blank"}.
+
+[github-americanLife]: https://github.com/stephenurena/Skeleton
